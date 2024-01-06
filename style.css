@@ -8,6 +8,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f4e4ba;
+    overflow: hidden;
 }
 .container {
     background-color: white;
